@@ -15,6 +15,7 @@ span[class^="flaticon-"]:before, span[class*=" flaticon-"]:before {
   text-transform: none;
   font-size: 20px;
   line-height: 1!important;
+  margin-top: 10px;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
 }
