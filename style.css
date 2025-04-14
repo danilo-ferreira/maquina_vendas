@@ -15251,7 +15251,7 @@ a.tra-link:hover span {
 }
 .tra-link.ico-20 [class*="flaticon-"]:before, .tra-link.ico-20 [class*="flaticon-"]:after {
   position: relative;
-  top: 2px;
+  top: 5px;
   left: 2px;
   font-size: 0.75rem;
   --tw-leading: 0.7rem;
